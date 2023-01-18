@@ -6,7 +6,6 @@ The user gets to login/signup into the website to book sessions online. The admi
 - email validation
 - prepared statement to prevent fixation attacks
 # Youtube link
-https://youtu.be/HwGf0u7bQg0
 # Creds
 for user
 Username: aname@gmail.com
